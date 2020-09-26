@@ -103,3 +103,18 @@ Any and all output formats are written to the same file, `point.log`. For exampl
 
 ### `-?`, `-help`, `--help` Help!
 Display some notes on how to use this script.
+
+## Citation
+
+If this code was helpful for your research, please consider citing this repository.
+
+```
+@misc{point-cloud-find-pose_2019,
+  title={Point-Cloud-Find-Pose},
+  author={Eric C. Joyce},
+  year={2019},
+  publisher={Github},
+  journal={GitHub repository},
+  howpublished={\url{https://github.com/EricCJoyce/Point-Cloud-Find-Pose}}
+}
+```
